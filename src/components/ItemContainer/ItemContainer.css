@@ -1,0 +1,7 @@
+.itemFormHidden {
+    visibility: hidden;
+}
+
+.itemForm {
+    visibility: visible;
+}
